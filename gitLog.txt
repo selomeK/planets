@@ -1,0 +1,29 @@
+commit 03d5f795a339c8305f743ba71bf6d30db307372f
+Author: Selome <ewsel@yahoo.com>
+Date:   Tue Oct 9 14:20:58 2018 +0200
+
+    deleted
+
+commit ccd3d41ed3537ef298c0d2d8f6a573acc38c2211
+Author: Selome <ewsel@yahoo.com>
+Date:   Tue Oct 9 14:19:02 2018 +0200
+
+    with difference
+
+commit 0fb1aa9d332e1f6934cdd7adba2408c66903d53a
+Author: Selome <ewsel@yahoo.com>
+Date:   Tue Oct 9 14:12:23 2018 +0200
+
+    another change
+
+commit 8c95f8abbe2cf54a4f5143eb6285dc2194b909d6
+Author: Selome <ewsel@yahoo.com>
+Date:   Tue Oct 9 14:11:05 2018 +0200
+
+    added stuff about base
+
+commit 167548c13127fcb6a8de175ef65c2619e7d36375
+Author: Selome <selome@client232-133.wireless.umu.se>
+Date:   Tue Oct 9 13:53:59 2018 +0200
+
+    created the file mars.txt
